@@ -331,6 +331,7 @@ ASALocalRun/
 
 # Dll file
 *.dll
+*.pdb
 
 # VS Code files
 .vscode/*
@@ -338,3 +339,5 @@ ASALocalRun/
 !.vscode/tasks.json
 !.vscode/launch.json
 !.vscode/extensions.json
+!bin/
+!obj/
