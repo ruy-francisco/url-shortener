@@ -183,11 +183,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\Users\\ruyfs\\git_projects\\url-shortener\\src\\Domain\\Domain.csproj",
+      "projectUniqueName": "C:\\Users\\ruyfs\\git_projects\\url-shortener\\src\\Domain\\Domain.csproj",
       "projectName": "Domain",
-      "projectPath": "c:\\Users\\ruyfs\\git_projects\\url-shortener\\src\\Domain\\Domain.csproj",
+      "projectPath": "C:\\Users\\ruyfs\\git_projects\\url-shortener\\src\\Domain\\Domain.csproj",
       "packagesPath": "C:\\Users\\ruyfs\\.nuget\\packages\\",
-      "outputPath": "c:\\Users\\ruyfs\\git_projects\\url-shortener\\src\\Domain\\obj\\",
+      "outputPath": "C:\\Users\\ruyfs\\git_projects\\url-shortener\\src\\Domain\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

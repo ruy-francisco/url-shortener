@@ -1,11 +1,8 @@
-using System.Net.Http;
-using System.Text;
 using System.Threading.Tasks;
 using Domain.Contracts;
 using Microsoft.AspNetCore.Mvc;
 using Newtonsoft.Json;
 using Web.Api.DTO;
-using System.Net;
 using System.Text.RegularExpressions;
 
 namespace Web.Api.Controllers

@@ -8,3 +8,5 @@ C:\Users\ruyfs\git_projects\url-shortener\src\Service\obj\Debug\netstandard2.0\S
 C:\Users\ruyfs\git_projects\url-shortener\src\Service\obj\Debug\netstandard2.0\Service.AssemblyInfo.cs
 C:\Users\ruyfs\git_projects\url-shortener\src\Service\obj\Debug\netstandard2.0\Service.dll
 C:\Users\ruyfs\git_projects\url-shortener\src\Service\obj\Debug\netstandard2.0\Service.pdb
+C:\Users\ruyfs\git_projects\url-shortener\src\Service\obj\Debug\netstandard2.0\Service.csprojResolveAssemblyReference.cache
+C:\Users\ruyfs\git_projects\url-shortener\src\Service\obj\Debug\netstandard2.0\Service.csproj.CopyComplete

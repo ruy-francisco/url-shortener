@@ -5,15 +5,17 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <Folder Include="wwwroot\" />
-  </ItemGroup>
-
-  <ItemGroup>
     <PackageReference Include="Microsoft.AspNetCore.All" Version="2.0.9" />
   </ItemGroup>
 
   <ItemGroup>
     <DotNetCliToolReference Include="Microsoft.VisualStudio.Web.CodeGeneration.Tools" Version="2.0.1" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="wwwroot\node_modules\angularjs\1.7.5\angular.js" />
+    <None Include="wwwroot\node_modules\angularjs\1.7.5\angular.min.js" />
+    <None Include="wwwroot\node_modules\angularjs\1.7.5\angular.min.js.map" />
   </ItemGroup>
 
   <ItemGroup>

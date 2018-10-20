@@ -6,3 +6,4 @@ C:\Users\ruyfs\git_projects\url-shortener\src\Domain\obj\Debug\netstandard2.0\Do
 C:\Users\ruyfs\git_projects\url-shortener\src\Domain\obj\Debug\netstandard2.0\Domain.AssemblyInfo.cs
 C:\Users\ruyfs\git_projects\url-shortener\src\Domain\obj\Debug\netstandard2.0\Domain.dll
 C:\Users\ruyfs\git_projects\url-shortener\src\Domain\obj\Debug\netstandard2.0\Domain.pdb
+C:\Users\ruyfs\git_projects\url-shortener\src\Domain\obj\Debug\netstandard2.0\Domain.csprojResolveAssemblyReference.cache

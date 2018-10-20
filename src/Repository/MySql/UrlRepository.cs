@@ -1,5 +1,4 @@
 using Domain.Contracts;
-using Dapper;
 using MySql.Data.MySqlClient;
 using System.Threading.Tasks;
 

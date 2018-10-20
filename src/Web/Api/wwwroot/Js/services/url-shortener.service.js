@@ -1,9 +1,11 @@
 app.factory('urlShortenerService', ['$http', 
     function ($http) {
+        
+
         var service = {};
 
         service.shorten = function (url) {
-            let baseUrl = "http://localhost:5000";
+            let baseUrl = window.location.host;
             let apiUrl = baseUrl + "/api/UrlShortener/Shorten";
 
             let params = {
