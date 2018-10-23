@@ -1,5 +1,7 @@
 # url-shortener
 
+* Docker shared image: docker pull ruyfrancisco/api
+
 ## Api methods
 1. api/UrlShortener/Shorten
     * Http verb: Post
